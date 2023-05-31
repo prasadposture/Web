@@ -53,7 +53,7 @@ Notebook Expert, Astronomy Enthusiast."<br>
 <p style="font-size:140%; border:1px solid gray; border-radius:15px; text-align:center; width:300px">
 Contact me for<br></p>
 <p>
-<b> Question Based Analysis, &nbsp Exploratory Data Analysis<br>
+<b> Question Based Analysis, &nbsp Exploratory Data Analysis,<br>
     Interactive Dashboards, &nbsp Web Applications, &nbsp Predictive Modeling
 </b>
 </p>
