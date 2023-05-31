@@ -61,5 +61,5 @@ Contact me for<br></p>
     st.markdown(content, unsafe_allow_html=True)
 
 with b:
-    img =  Image.open('images\cbg.jpg')
+    img =  Image.open('cbg.jpg')
     st.image(img)
