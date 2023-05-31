@@ -26,17 +26,17 @@ color:#ffffff;
 color:#ffffff;
 }
 input[type=message], input[type=email], input[type=text], textarea {
-  width: 100%; /* Full width */
-  padding: 12px; /* Some padding */ 
-  border: 1px solid #ccc; /* Gray border */
-  border-radius: 4px; /* Rounded borders */
-  box-sizing: border-box; /* Make sure that padding and width stays in place */
-  margin-top: 6px; /* Add a top margin */
-  margin-bottom: 16px; /* Bottom margin */
-  resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+  width: 100%; 
+  padding: 12px; 
+  border: 1px solid #ccc; 
+  border-radius: 4px; 
+  box-sizing: border-box; 
+  margin-top: 6px; 
+  margin-bottom: 16px; 
+  resize: vertical
 }
 
-/* Style the submit button with a specific background color etc */
+
 button[type=submit] {
   background-color: #04AA6D;
   color: white;
@@ -46,7 +46,6 @@ button[type=submit] {
   cursor: pointer;
 }
 
-/* When moving the mouse over the submit button, add a darker green color */
 button[type=submit]:hover {
   background-color: #45a049;
 }
@@ -88,11 +87,11 @@ with b:
         </a>
         <a href="https://github.com/prasadposture" target="_blank">
         <img src="https://ctl.s6img.com/society6/img/y-xZ_syD7LhIJOGtpdTU08ra6Aw/w_700/prints/~artwork/s6-original-art-uploads/society6/uploads/misc/8e29a2e79387449caa28090d71f489e3/~~/github-logo-prints.jpg?wait=0&attempt=0"
-        alt="GitHub Logo" width="40px" height="40px">
+        alt="GitHub Logo" width="40px" height="40px" style="border-radius:3px">
         </a> &nbsp &nbsp
         <a href="https://www.kaggle.com/prasadposture121" target="_blank">
         <img src="https://cdn-images-1.medium.com/v2/resize:fit:1200/1*9izrRVNdAJa9bFaqBwSH4w.png"
-        alt="Kaggle Logo" width="40px" height="40px">
+        alt="Kaggle Logo" width="40px" height="40px" style="border-radius:3px">
         </a>
         ''',
         unsafe_allow_html=True
