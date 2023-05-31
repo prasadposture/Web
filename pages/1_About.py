@@ -75,30 +75,84 @@ a,b = st.columns([1,4])
 with a:
     st.markdown("""
 <p style='font-family:sheriff; font-size:110%;'>
-<b>Tech Skills:</b><br>
-<b>Python Libraries:</b><br>
-<b>Data Skills:</b><br>
-<br>
-<b>Microsoft Tools:</b><br>
-<b>Maths Skills:</b><br>
-<br>
+<b>Tech Skills:</b>
+</p>
+""", unsafe_allow_html=True)
+    
+with b:
+    st.markdown("""
+<p style='font-family:sheriff; font-size:110%;'>Python, &nbsp R, &nbsp SQL</p>
+""", unsafe_allow_html=True)
+
+a,b = st.columns([1,4])
+with a:
+    st.markdown("""
+<p style='font-family:sheriff; font-size:110%;'>
+<b>Python Libraries:</b>
+</p>
+""", unsafe_allow_html=True)
+    
+with b:
+    st.markdown("""
+<p style='font-family:sheriff; font-size:110%;'>Pandas, &nbsp NumPy, &nbsp Matplotlib, &nbsp Seaborn, &nbsp Streamlit,
+&nbsp Plotly, &nbsp Scikit-Learn</p>
+""", unsafe_allow_html=True)
+
+a,b = st.columns([1,4])
+with a:
+    st.markdown("""
+<p style='font-family:sheriff; font-size:110%;'>
+<b>Data Skills:</b>
+</p>
+""", unsafe_allow_html=True)
+    
+with b:
+    st.markdown("""
+<p style='font-family:sheriff; font-size:110%;'>Data Cleaning, &nbsp Data Manipulation, &nbsp Data Visualization, &nbsp Question Based Analysis, &nbsp Exploratory Data Analysis,
+&nbsp Predictive Analysis, &nbsp Web Scraping</p>
+""", unsafe_allow_html=True)
+
+a,b = st.columns([1,4])
+with a:
+    st.markdown("""
+<p style='font-family:sheriff; font-size:110%;'>
+<b>Microsoft Tools:</b>
+</p>
+""", unsafe_allow_html=True)
+    
+with b:
+    st.markdown("""
+<p style='font-family:sheriff; font-size:110%;'>Word, &nbsp Excel, &nbsp PowerPoint, &nbsp PowerBI</p>
+""", unsafe_allow_html=True)
+    
+a,b = st.columns([1,4])
+with a:
+    st.markdown("""
+<p style='font-family:sheriff; font-size:110%;'>
+<b>Maths Skills:</b>
+</p>
+""", unsafe_allow_html=True)
+    
+with b:
+    st.markdown("""
+<p style='font-family:sheriff; font-size:110%;'>Probability, &nbsp Statistics, &nbsp Calculus, &nbsp Algebra, 
+&nbsp Real and Complex Analysis, &nbsp Mathematical Physics</p>
+""", unsafe_allow_html=True)
+
+a,b = st.columns([1,4])
+with a:
+    st.markdown("""
+<p style='font-family:sheriff; font-size:110%;'>
 <b>Soft Skills:</b>
 </p>
 """, unsafe_allow_html=True)
     
 with b:
     st.markdown("""
-<p style='font-family:sheriff; font-size:110%;'>Python, &nbsp R, &nbsp SQL<br>
-Pandas, &nbsp NumPy, &nbsp Matplotlib, &nbsp Seaborn, &nbsp Streamlit,
-&nbsp Plotly, &nbsp Scikit-Learn<br>
-Data Cleaning, &nbsp Data Manipulation, &nbsp Data Visualization, &nbsp Question Based Analysis, &nbsp Exploratory Data Analysis,
-&nbsp Predictive Analysis, &nbsp Web Scraping<br>
-Word, &nbsp Excel, &nbsp PowerPoint, &nbsp PowerBI<br>
-Probability, &nbsp Statistics, &nbsp Calculus, &nbsp Algebra, 
-&nbsp Real and Complex Analysis, &nbsp Mathmatical Physics<br>
-Effective Communication, &nbsp Time Management, &nbsp Problem Solving,
+<p style='font-family:sheriff; font-size:110%;'>Effective Communication, &nbsp Time Management, &nbsp Problem Solving,
 &nbsp Critical Thinking, &nbsp Creative Writing</p>
 """, unsafe_allow_html=True)
+    
 
 
 st.markdown("""
@@ -116,8 +170,8 @@ st.markdown("""
 st.markdown("""
 <h3 style='color:#ffffff;'>Achievements</h3>
 <p style='font-family:sheriff; font-size:110%;'>
-Been on the achievers list of Jai Hind College, Mumbai<br>
-Achieved highest rank 708 among 270k+ notebook experts on kaggle<br>
-AIR 216 in IIT JAM Physics
+1. Been on the achievers list of Jai Hind College, Mumbai<br>
+2. Achieved highest rank 708 among 270k+ notebook experts on kaggle<br>
+3. AIR 216 in IIT JAM Physics
 </p>
 """, unsafe_allow_html=True)
