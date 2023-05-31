@@ -62,6 +62,7 @@ with a:
         I can help.<br>
         <b>Tools Used:</b> &nbsp Excel, PowerQuerry, Python, Python Libraries
         <br>
+        <br>
         <p>
         """,
         unsafe_allow_html=True
@@ -85,7 +86,6 @@ with b:
         This service can be integrated with QBA and it contains complicated visuals such as 3D ScatterPlot, Heatmap,
         Starbust, etc.<br>
         <b>Tools Used:</b> &nbsp Python, Python Libraries
-        <br>
         <p>
         """,
         unsafe_allow_html=True
