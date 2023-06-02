@@ -92,6 +92,10 @@ with b:
         <a href="https://www.kaggle.com/prasadposture121" target="_blank">
         <img src="https://cdn-images-1.medium.com/v2/resize:fit:1200/1*9izrRVNdAJa9bFaqBwSH4w.png"
         alt="Kaggle Logo" width="40px" height="40px" style="border-radius:3px">
+        </a>&nbsp &nbsp
+        <a href="https://www.instagram.com/pprasaadd/" target="_blank">
+        <img src="https://raw.githubusercontent.com/prasadposture/Web/main/logo-op.png"
+        alt="Instagram Logo" width="40px" height="40px" style="border-radius:3px">
         </a>
         ''',
         unsafe_allow_html=True
