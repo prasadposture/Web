@@ -134,7 +134,7 @@ with b:
     ba, bc, bd, be = st.columns(4)
     with ba:
         img5 = Image.open('ipl.png')
-        st.image(img5, caption='IPL Mathces Dashboard')
+        st.image(img5, caption='IPL Matches Dashboard')
         with st.expander('Click to see more'):
             st.markdown("""
             <p style='font-family:sheriff; font-size:95%;'>
