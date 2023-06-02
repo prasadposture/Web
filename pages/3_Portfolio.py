@@ -71,7 +71,7 @@ with a:
     ab, ac, ad, ae = st.columns(4)
     with ab:
         img3 = Image.open('ipl.png')
-        st.image(img3, caption='EDA of IPL Mathces (2008-20)')
+        st.image(img3, caption='EDA of IPL Matches (2008-20)')
         with st.expander('Click to see more'):
             st.markdown("""
             <p style='font-family:sheriff; font-size:95%;'>
