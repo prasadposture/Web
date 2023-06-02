@@ -159,6 +159,19 @@ with b:
             <p>
             <a href="https://prasadposture-house-prices-advanced-regression-t-1--home-of41rn.streamlit.app/Visualization">Checkout the project</a>
             """, unsafe_allow_html=True)
+    with bd:
+        img2 = Image.open('covid19.png')
+        st.image(img2, caption="Covid-19 Dashboard")
+        with st.expander('Click to see more'):
+            st.markdown("""
+            <p style='font-family:sheriff; font-size:95%;'>
+            I have created a  Covid-19 Dashboard using Excel that provides information on the spread
+            of the virus in India. The dashboard contains data on Covid-19 cases, death, recoveries and active cases
+            all across the states in India. The visuals used in this dashboard easily convey all the required information.
+            <p>
+            <a href="https://github.com/prasadposture/Covid-19-Data-Analysis/blob/main/Covid-19_Dashboard.pdf">Checkout the project</a>
+            """, unsafe_allow_html=True)
+
 with c:
     ca, cb, cd, ce = st.columns(4)
     with ca:

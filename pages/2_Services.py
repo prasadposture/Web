@@ -108,7 +108,7 @@ with a:
         and make it more accessible and user friendly. I can create custom dashboards
         that allow you to explore your data in real-time.
         This can help you identify trends and patterns that you might otherwise miss.<br>
-        <b>Tools Used:</b> &nbsp PowerBI, Python, Python Libraries
+        <b>Tools Used:</b> &nbsp PowerBI, Excel, Python, Python Libraries
         <br>
         <br>
         <br>
