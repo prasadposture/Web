@@ -147,17 +147,20 @@ with b:
             <a href="https://github.com/prasadposture/EDA-of-IPL-Matches">Checkout the project</a>
             """, unsafe_allow_html=True)
     with bc:
-        img6 = Image.open('house-price.jpg')
-        st.image(img6, caption='House Price (Visualization)')
+        img2 = Image.open('groceries-cropped.jpg')
+        st.image(img2, caption="Sales Insights")
         with st.expander('Click to see more'):
             st.markdown("""
             <p style='font-family:sheriff; font-size:95%;'>
-            Here, it contains the data visulization section of streamlit web app that predicts sale price of house
-            given the attribute. Since made with programming language this dashboard is flexbile and can be manipulated
-            according to our needs. Also it's easy to access from anywhere you want. The interactive visuals make it
-            whole lot easier to understand the inter-relationship of the attributes.
+            I built a PowerBI dashboard using Kaggle's Store Sales data from the 
+            getting started competition.
+            The goal of this project was to analyze the sales data of various stores and identify
+            trends that could help the business make better decisions. By creating an interactive dashboard,
+            I was able to visualize the data in a way that made it easy to understand and identify key insights.
+            In this project, I used various PowerBI features such as filters, drill-downs, and slicers to create
+            an intuitive and user-friendly dashboard.
             <p>
-            <a href="https://prasadposture-house-prices-advanced-regression-t-1--home-of41rn.streamlit.app/Visualization">Checkout the project</a>
+            <a href="https://github.com/prasadposture/Sales-Insights/blob/main/Sales-Insights.pdf">Checkout the project</a>
             """, unsafe_allow_html=True)
     with bd:
         img2 = Image.open('covid19.png')
@@ -170,6 +173,19 @@ with b:
             all across the states in India. The visuals used in this dashboard easily convey all the required information.
             <p>
             <a href="https://github.com/prasadposture/Covid-19-Data-Analysis/blob/main/Covid-19_Dashboard.pdf">Checkout the project</a>
+            """, unsafe_allow_html=True)
+    with be:
+        img6 = Image.open('house-price.jpg')
+        st.image(img6, caption='House Price (Visualization)')
+        with st.expander('Click to see more'):
+            st.markdown("""
+            <p style='font-family:sheriff; font-size:95%;'>
+            Here, it contains the data visulization section of streamlit web app that predicts sale price of house
+            given the attribute. Since made with programming language this dashboard is flexbile and can be manipulated
+            according to our needs. Also it's easy to access from anywhere you want. The interactive visuals make it
+            whole lot easier to understand the inter-relationship of the attributes.
+            <p>
+            <a href="https://prasadposture-house-prices-advanced-regression-t-1--home-of41rn.streamlit.app/Visualization">Checkout the project</a>
             """, unsafe_allow_html=True)
 
 with c:
