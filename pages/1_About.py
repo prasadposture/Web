@@ -36,6 +36,10 @@ st.markdown("""
 I have particular interest in astronomy, and aiming to be in 
 the field of data driven astronomy, where I can use my knowledge of physics, 
 mathematics and data science for space exploration and reveal the secret of cosmos.
+Being from mathematics background,
+I naturally posses great problem solving abilities
+with a unique algorithmic approach that particularly focuses on breaking down the problem
+into simpler forms and tackling each part of it.
 </p>
 <hr style="border-color:#ffffff;">
 """, unsafe_allow_html=True)
