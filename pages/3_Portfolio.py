@@ -185,7 +185,7 @@ with b:
             according to our needs. Also it's easy to access from anywhere you want. The interactive visuals make it
             whole lot easier to understand the inter-relationship of the attributes.
             <p>
-            <a href="https://prasadposture-house-prices-advanced-regression-t-1--home-of41rn.streamlit.app/Visualization">Checkout the project</a>
+            <a href="https://house-price-prediction-pp.streamlit.app/Visualization">Checkout the project</a>
             """, unsafe_allow_html=True)
 
 with c:
@@ -206,7 +206,7 @@ with c:
             whether somebody will face financial distress within next two years based on their
             past and current conditions.
             <p>
-            <a href="https://prasadposture-financial-distress-prediction-fdp-7abgw6.streamlit.app/">Checkout the project</a>
+            <a href="https://finanancial-distress-prediction.streamlit.app/">Checkout the project</a>
             """, unsafe_allow_html=True)
     with cb:
         img8 = Image.open('house-price.jpg')
@@ -219,7 +219,7 @@ with c:
             and tuned over the data of 1460 houses and it provides great accuracy. In addition to that it contains different kind of visuals
             that help understand the relationship better.
             <p>
-            <a href="https://prasadposture-house-prices-advanced-regression-t-1--home-of41rn.streamlit.app/">Checkout the project</a>
+            <a href="https://house-price-prediction-pp.streamlit.app/">Checkout the project</a>
             """, unsafe_allow_html=True)
     with cd:
         img9 = Image.open('water.jpg')
@@ -232,7 +232,7 @@ with c:
             whether it is potable or not. A user could play around and determine the ranges till the combination
             of amount of water constituents keeps it potable.
             <p>
-            <a href="https://prasadposture-water-potability-proj-water-potability-app-zvgixo.streamlit.app/">Checkout the project</a>
+            <a href="https://water-potability.streamlit.app/">Checkout the project</a>
             """, unsafe_allow_html=True)
     with ce:
         img10 = Image.open('RandomForest.jpg')
@@ -245,7 +245,7 @@ with c:
             label encoding, dropping unnecessary columns and make predictions on the dataset. It has proven to be given
             a great accuracy and will be helpful for beginner who wants to compare their model.
             <p>
-            <a href="https://prasadposture-randomforestclassfi-randomforestclassifier-sy515c.streamlit.app/">Checkout the project</a>
+            <a href="https://random-forest-classifier.streamlit.app/">Checkout the project</a>
             """, unsafe_allow_html=True)
 with d:
     da, db,dc, de = st.columns(4)
