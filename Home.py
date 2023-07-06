@@ -1,6 +1,6 @@
 import streamlit as st
 from PIL import Image
-st.set_page_config(page_title='Prasad Posture',layout='wide', page_icon='logo.ico')
+st.set_page_config(page_title='Prasad Posture',layout='wide', page_icon='Images/logo.ico')
 
 markdown='''
 <style>
@@ -61,5 +61,5 @@ Contact me for<br></p>
     st.markdown(content, unsafe_allow_html=True)
 
 with b:
-    img =  Image.open('cbg.jpg')
+    img =  Image.open('Images/cbg.jpg')
     st.image(img)
