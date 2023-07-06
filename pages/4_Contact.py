@@ -94,7 +94,7 @@ with b:
         alt="Kaggle Logo" width="40px" height="40px" style="border-radius:3px">
         </a>&nbsp &nbsp
         <a href="https://www.instagram.com/pprasaadd/" target="_blank">
-        <img src="https://raw.githubusercontent.com/prasadposture/Web/main/logo-op.png"
+        <img src="https://raw.githubusercontent.com/prasadposture/Web/main/Images/logo-op.png"
         alt="Instagram Logo" width="40px" height="40px" style="border-radius:3px">
         </a>
         ''',
