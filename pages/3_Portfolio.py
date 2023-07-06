@@ -70,7 +70,7 @@ a,b,c,d = st.tabs(listTabs)
 with a:
     ab, ac, ad, ae = st.columns(4)
     with ab:
-        img3 = Image.open('ipl.png')
+        img3 = Image.open('Images/ipl.png')
         st.image(img3, caption='EDA of IPL Matches (2008-20)')
         with st.expander('Click to see more'):
             st.markdown("""
@@ -89,7 +89,7 @@ with a:
             <a href="https://www.kaggle.com/code/prasadposture121/exploratory-data-analysis-of-ipl-matches">Checkout the project</a>
             """, unsafe_allow_html=True)
     with ac:
-        img1 = Image.open('Data-Science.jpeg')
+        img1 = Image.open('Images/Data-Science.jpeg')
         st.image(img1,caption="Analysis of Data Science Jobs")
         with st.expander('Click to see more'):
             st.markdown("""
@@ -106,7 +106,7 @@ with a:
             <a href="https://github.com/prasadposture/Analysis-of-Data-Science-Jobs">Checkout the project</a>
             """, unsafe_allow_html=True)
     with ad:
-        img2 = Image.open('covid19.png')
+        img2 = Image.open('Images/covid19.png')
         st.image(img2, caption="Covid-19 Data Analysis")
         with st.expander('Click to see more'):
             st.markdown("""
@@ -119,7 +119,7 @@ with a:
             <a href="https://www.kaggle.com/code/prasadposture121/covid-19-data-analysis">Checkout the project</a>
             """, unsafe_allow_html=True)
     with ae:
-        img4 = Image.open('kaggle.jpg')
+        img4 = Image.open('Images/kaggle.jpg')
         st.image(img4, caption='Kaggle ML & DS Survey')
         with st.expander('Click to see more'):
             st.markdown("""
@@ -133,7 +133,7 @@ with a:
 with b:
     ba, bc, bd, be = st.columns(4)
     with ba:
-        img5 = Image.open('ipl.png')
+        img5 = Image.open('Images/ipl.png')
         st.image(img5, caption='IPL Matches Dashboard')
         with st.expander('Click to see more'):
             st.markdown("""
@@ -147,7 +147,7 @@ with b:
             <a href="https://github.com/prasadposture/EDA-of-IPL-Matches">Checkout the project</a>
             """, unsafe_allow_html=True)
     with bc:
-        img2 = Image.open('groceries-cropped.jpg')
+        img2 = Image.open('Images/groceries-cropped.jpg')
         st.image(img2, caption="Sales Insights")
         with st.expander('Click to see more'):
             st.markdown("""
@@ -163,7 +163,7 @@ with b:
             <a href="https://github.com/prasadposture/Sales-Insights/blob/main/Sales-Insights.pdf">Checkout the project</a>
             """, unsafe_allow_html=True)
     with bd:
-        img2 = Image.open('covid19.png')
+        img2 = Image.open('Images/covid19.png')
         st.image(img2, caption="Covid-19 Dashboard")
         with st.expander('Click to see more'):
             st.markdown("""
@@ -175,7 +175,7 @@ with b:
             <a href="https://github.com/prasadposture/Covid-19-Data-Analysis/blob/main/Covid-19_Dashboard.pdf">Checkout the project</a>
             """, unsafe_allow_html=True)
     with be:
-        img6 = Image.open('house-price.jpg')
+        img6 = Image.open('Images/house-price.jpg')
         st.image(img6, caption='House Price (Visualization)')
         with st.expander('Click to see more'):
             st.markdown("""
@@ -191,7 +191,7 @@ with b:
 with c:
     ca, cb, cd, ce = st.columns(4)
     with ca:
-        img7 = Image.open('kfinance.jpg')
+        img7 = Image.open('Images/kfinance.jpg')
         st.image(img7, caption='Financial Distress Prediction')
         with st.expander('Click to see more'):
             st.markdown("""
@@ -209,7 +209,7 @@ with c:
             <a href="https://finanancial-distress-prediction.streamlit.app/">Checkout the project</a>
             """, unsafe_allow_html=True)
     with cb:
-        img8 = Image.open('house-price.jpg')
+        img8 = Image.open('Images/house-price.jpg')
         st.image(img8, caption='House Price Prediction')
         with st.expander('Click to see more'):
             st.markdown("""
@@ -222,7 +222,7 @@ with c:
             <a href="https://house-price-prediction-pp.streamlit.app/">Checkout the project</a>
             """, unsafe_allow_html=True)
     with cd:
-        img9 = Image.open('water.jpg')
+        img9 = Image.open('Images/water.jpg')
         st.image(img9, caption='Water Potability')
         with st.expander('Click to see more'):
             st.markdown("""
@@ -235,7 +235,7 @@ with c:
             <a href="https://water-potability.streamlit.app/">Checkout the project</a>
             """, unsafe_allow_html=True)
     with ce:
-        img10 = Image.open('RandomForest.jpg')
+        img10 = Image.open('Images/RandomForest.jpg')
         st.image(img10, caption='RandomForestClassifier')
         with st.expander('Click to see more'):
             st.markdown("""
@@ -250,7 +250,7 @@ with c:
 with d:
     da, db,dc, de = st.columns(4)
     with da:
-        img11 = Image.open('kfinance.jpg')
+        img11 = Image.open('Images/kfinance.jpg')
         st.image(img11, caption='Financial Distress Prediction')
         with st.expander('Click to see more'):
             st.markdown("""
@@ -264,7 +264,7 @@ with d:
             <a href="https://www.kaggle.com/code/prasadposture121/financial-distress-prediction">Checkout the project</a>
             """, unsafe_allow_html=True)
     with db:
-        img12 = Image.open('house-price.jpg')
+        img12 = Image.open('Images/house-price.jpg')
         st.image(img12, caption='House Price Prediction')
         with st.expander('Click to see more'):
             st.markdown("""
@@ -277,7 +277,7 @@ with d:
             <a href="https://www.kaggle.com/code/prasadposture121/house-prices-prediction">Checkout the project</a>
             """, unsafe_allow_html=True)
     with dc:
-        img13 = Image.open('water.jpg')
+        img13 = Image.open('Images/water.jpg')
         st.image(img13, caption='Water Potability')
         with st.expander('Click to see more'):
             st.markdown("""
