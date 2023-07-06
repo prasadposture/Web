@@ -290,7 +290,7 @@ with d:
             <a href="https://www.kaggle.com/code/prasadposture121/water-potability-project">Checkout the project</a>
             """, unsafe_allow_html=True)
     with de:
-        img14 = Image.open('https://raw.githubusercontent.com/prasadposture/Web/main/Images/galaxy.png')
+        img14 = Image.open('/Images/galaxy.png')
         st.image(img14, caption='Stellar Classification')
         with st.expander('Click to see more'):
             st.markdown("""
