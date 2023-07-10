@@ -140,7 +140,7 @@ with a:
 with b:
     st.markdown("""
 <p style='font-family:sheriff; font-size:110%;'>Probability, &nbsp Statistics, &nbsp Calculus, &nbsp Algebra, 
-&nbsp Real and Complex Analysis, &nbsp Mathematical Physics</p>
+&nbsp Real and Complex Analysis, &nbsp Mathematical Methods</p>
 """, unsafe_allow_html=True)
 
 a,b = st.columns([1,4])
