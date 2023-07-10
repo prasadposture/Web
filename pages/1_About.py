@@ -174,8 +174,8 @@ st.markdown("""
 st.markdown("""
 <h3 style='color:#ffffff;'>Achievements</h3>
 <p style='font-family:sheriff; font-size:110%;'>
-1. Been on the achievers list of Jai Hind College, Mumbai<br>
-2. Achieved highest rank 708 among 270k+ notebook experts on kaggle<br>
+1. Been on the achiever's list of Jai Hind College, Mumbai<br>
+2. Achieved highest rank 708 among 286k+ notebook experts on kaggle<br>
 3. AIR 216 in IIT JAM Physics
 </p>
 """, unsafe_allow_html=True)
