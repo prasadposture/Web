@@ -48,7 +48,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 a,b,c = st.columns(3)
-with a:
+with b:
     st.markdown("""
 <p style='font-family:sheriff; font-size:110%; border:1px solid gray; border-radius:10px; background-color:#171717;'>
 <b>&nbsp B.Sc. Mathematics</b><br>
@@ -56,7 +56,7 @@ with a:
 &nbsp CGPA : 9.75<br>
 </p>""", unsafe_allow_html=True)
 
-with b:
+with c:
     st.markdown("""
 <p style='font-family:sheriff; font-size:110%; border:1px solid gray; border-radius:10px; background-color:#171717;'>
 <b>&nbsp HSC (PCMB)</b><br>
@@ -64,12 +64,12 @@ with b:
 &nbsp Percentage : 75.34%<br>
 </p>""", unsafe_allow_html=True)
 
-with c:
+with a:
     st.markdown("""
 <p style='font-family:sheriff; font-size:110%; border:1px solid gray; border-radius:10px; background-color:#171717;'>
-<b>&nbsp SSC</b><br>
-&nbsp Panderi-Peve Highschool<br>
-&nbsp Percentage : 93.40%<br>
+<b>&nbsp M.Sc. Astronomy</b><br>
+&nbsp IIT Indore<br>
+&nbsp CGPA :-<br>
 </p>""", unsafe_allow_html=True)
 
 st.markdown("""
