@@ -139,7 +139,7 @@ with a:
     
 with b:
     st.markdown("""
-<p style='font-family:sheriff; font-size:110%;'>Probability, &nbsp Statistics, &nbsp Calculus, &nbsp Algebra, 
+<p style='font-family:sheriff; font-size:110%;'>Probability, &nbsp Statistics, &nbsp Calculus, &nbsp Linear/Algebra Algebra, 
 &nbsp Real and Complex Analysis, &nbsp Mathematical Methods</p>
 """, unsafe_allow_html=True)
 
