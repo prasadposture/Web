@@ -69,7 +69,7 @@ with a:
 <p style='font-family:sheriff; font-size:110%; border:1px solid gray; border-radius:10px; background-color:#171717;'>
 <b>&nbsp M.Sc. Astronomy</b><br>
 &nbsp IIT Indore<br>
-&nbsp CGPA :-<br>
+&nbsp CGPA : 9.00 <br>
 </p>""", unsafe_allow_html=True)
 
 st.markdown("""
