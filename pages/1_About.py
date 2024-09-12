@@ -51,7 +51,7 @@ a,b,c = st.columns(3)
 with b:
     st.markdown("""
 <p style='font-family:sheriff; font-size:110%; border:1px solid gray; border-radius:10px; background-color:#171717;'>
-<b>&nbsp B.Sc. Mathematics</b><br>
+<b>&nbsp B.Sc. Mathematics with Data Analytics</b><br>
 &nbsp Jai Hind College, Mumbai<br>
 &nbsp CGPA : 9.75<br>
 </p>""", unsafe_allow_html=True)
