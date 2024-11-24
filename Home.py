@@ -40,8 +40,8 @@ with a:
 <h1 style="font-size:330%; text-align:center; color:#ffffff; font-family:Times New Roman">PRASAD POSTURE</h1>
 <br>
 
-<p style="font-family:monospace; font-size:120%; text-align:center; color:#ffffff;">"Freelance Data Analyst, Python Programmer, <br>
-Notebook Expert, Astronomy Enthusiast."<br>
+<p style="font-family:monospace; font-size:120%; text-align:center; color:#ffffff;">"Astronomer, Python Programmer, <br>
+Notebook Expert, AI/ML Enthusiast."<br>
 <br>
 <a href='https://www.linkedin.com/in/prasad-posture-6a3a77215/' target='blank'><img align='center' src='https://img.shields.io/badge/-Prasad Posture-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prasad-posture-6a3a77215/'  height='20' width='100' /></a>
 <a href='https://github.com/prasadposture' target='blank'><img align='center' src='https://img.shields.io/badge/-prasadposture-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/prasadposture'  height='20' width='100' /></a>
